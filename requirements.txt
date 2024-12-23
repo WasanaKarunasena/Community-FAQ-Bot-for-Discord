@@ -1,0 +1,5 @@
+discord.py
+langchain
+faiss-cpu
+transformers
+sentence-transformers

@@ -1,0 +1,3 @@
+What is Discord?|Discord is a communication platform for voice, video, and text communication.
+How do I create a server?|You can create a server by clicking the "+" icon in the Discord app.
+What are Discord bots?|Discord bots are automated tools that perform various tasks in servers.
