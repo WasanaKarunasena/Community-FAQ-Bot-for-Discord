@@ -1,3 +1,50 @@
-What is Discord?|Discord is a communication platform for voice, video, and text communication.
-How do I create a server?|You can create a server by clicking the "+" icon in the Discord app.
-What are Discord bots?|Discord bots are automated tools that perform various tasks in servers.
+What is your refund policy?|We offer a full refund within 30 days of purchase.
+How can I contact support?|You can contact support at support@example.com.
+What are your business hours?|Our business hours are Monday to Friday, 9 AM to 5 PM.
+Where are you located?|We are located at 123 Main Street, Anytown, USA.
+Do you ship internationally?|Yes, we offer international shipping to most countries.
+How do I track my order?|You can track your order using the tracking link sent to your email.
+What payment methods do you accept?|We accept credit cards, PayPal, and Apple Pay.
+Can I change my order after placing it?|Orders can be changed within 24 hours of placement.
+What is your warranty policy?|We provide a 1-year warranty on all our products.
+How do I reset my password?|Click on "Forgot Password" on the login page and follow the instructions.
+Do you offer bulk discounts?|Yes, we offer bulk discounts for orders over 100 units.
+Can I return a used item?|Used items can be returned within 14 days, provided they are in good condition.
+What is your exchange policy?|Exchanges are allowed within 30 days of purchase.
+Do you have a loyalty program?|Yes, sign up on our website to start earning points.
+How do I cancel my subscription?|You can cancel your subscription under the "My Account" section.
+What is your privacy policy?|We value your privacy; read our policy at example.com/privacy.
+Can I schedule a demo of your product?|Yes, please contact us at demo@example.com to schedule a demo.
+Do you offer technical support?|Yes, technical support is available 24/7 at techsupport@example.com.
+Are your products eco-friendly?|Yes, all our products are made with sustainable materials.
+How do I provide feedback?|You can provide feedback by emailing feedback@example.com.
+What is your student discount policy?|Students can avail a 10% discount with a valid ID.
+How long does shipping take?|Shipping typically takes 5-7 business days.
+Do you provide installation services?|Yes, installation services are available at an additional charge.
+How do I unsubscribe from your newsletter?|Click the "Unsubscribe" link at the bottom of any newsletter.
+Can I get a custom quote?|Yes, contact sales@example.com for custom quotes.
+What happens if my package is damaged?|Contact us immediately for a replacement or refund.
+What is your phone number?|You can reach us at 1-800-123-4567.
+Do you have an app?|Yes, download our app on iOS or Android.
+Are your services available in my region?|Check availability by entering your zip code on our website.
+Can I speak to a manager?|Yes, request a manager by calling our support number.
+How do I redeem a gift card?|Enter the gift card code at checkout.
+What is your employee discount policy?|Employees get a 20% discount on all products.
+Can I update my email address?|Yes, update your email in the "My Account" section.
+What is the difference between your plans?|Visit our pricing page for a detailed comparison.
+Do you offer free trials?|Yes, we offer a 14-day free trial for all new users.
+How do I delete my account?|Submit an account deletion request to delete@example.com.
+Can I save items to a wishlist?|Yes, add items to your wishlist by clicking the "Heart" icon.
+How do I print my invoice?|Access your invoices in the "My Orders" section of your account.
+Do you support gift wrapping?|Yes, gift wrapping is available for an additional charge.
+What is your affiliate program?|Earn commissions by joining our affiliate program at affiliate@example.com.
+How do I apply a promo code?|Enter the promo code during checkout in the "Promo Code" box.
+What is your same-day delivery policy?|Same-day delivery is available for select products in certain regions.
+Do you offer financing options?|Yes, financing is available through our partners.
+How do I report a bug?|Report bugs by emailing bugs@example.com.
+Can I pause my subscription?|Yes, subscriptions can be paused for up to 3 months.
+What is your cancellation policy?|Cancellations are allowed within 24 hours of purchase.
+How do I update my payment method?|Update your payment method under "Billing" in your account.
+What is the maximum order quantity?|The maximum order quantity is 500 units per transaction.
+Can I request a custom design?|Yes, contact customdesign@example.com for details.
+Do you have a careers page?|Yes, visit example.com/careers to see open positions.
