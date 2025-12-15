@@ -1,19 +1,21 @@
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores import FAISS
+from langchain_community.vectorstores import FAISS
+from langchain.schema import Document
+from embeddings import get_embeddings
 
-# Load your FAQ dataset
 def load_faq_dataset(file_path):
-    with open(file_path, 'r') as file:
-        lines = file.readlines()
-    faq_data = []
-    for line in lines:
-        question, answer = line.strip().split('|')
-        faq_data.append({"question": question, "answer": answer})
-    return faq_data
+    documents = []
 
-# Embed and store FAQ in FAISS
-def setup_faiss(faq_data):
-    embeddings = HuggingFaceEmbeddings()
-    texts = [item["question"] for item in faq_data]
-    faiss_store = FAISS.from_texts(texts, embeddings)
-    return faiss_store, faq_data
+    with open(file_path, "r", encoding="utf-8") as f:
+        for line in f:
+            question, answer = line.strip().split("|")
+            content = f"Question: {question}\nAnswer: {answer}"
+            documents.append(Document(page_content=content))
+
+    return documents
+
+
+def create_faiss_store(file_path):
+    embeddings = get_embeddings()
+    documents = load_faq_dataset(file_path)
+    vector_store = FAISS.from_documents(documents, embeddings)
+    return vector_store
