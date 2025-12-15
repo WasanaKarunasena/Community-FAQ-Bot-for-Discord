@@ -1,5 +1,7 @@
 discord.py
 langchain
-faiss-cpu
+langchain-community
 transformers
 sentence-transformers
+faiss-cpu
+torch
